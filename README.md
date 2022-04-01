@@ -4,5 +4,7 @@ Gradient boosting is currently one of the most popular techniques for efficient 
 Dataset description is as follows:
 
 In 'Ames Housing' dataset, we analyse the house prices, find the best hyperparameterers and trains an XGBoost regressor to predict future prices.
-In breastcancer dataset, using XGBoost classifiers we classify whether patient has breastcancer or not.
-In Automobile dataset, using XGBoost Regressor, we Predict Miles per gallon of the engine. Predictor attribute is continous here.
+
+In 'Breastcancer' dataset, using XGBoost classifiers we classify whether patient has breastcancer or not.
+
+In 'Automobile' dataset, using XGBoost Regressor, we Predict Miles per gallon of the engine. Predictor attribute is continous here.
